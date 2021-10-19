@@ -20,3 +20,10 @@ Aby zedytować rolę organizacyjną należy przy wybranej roli wybrać ikonę ed
 
 ## Usuwanie roli organizacyjnej.
 
+Aby usunąć daną rolę organizacyjną należy kliknąć ikonę _Usuń._ Wyskocz okno potwierdzenia usuwania roli.&#x20;
+
+![](<../.gitbook/assets/usuń organizacje.PNG>)
+
+Aby usunąć daną rolę należy przypisać użytkowników z usuwanej roli do innej roli w organizacji. Aby to zrealizować należy rozwinąć listę _Wybierz rolę _i wybrać rolę do której chcemy przepisać użytkowników. Następnie należy potwierdzić działanie _Tak, usuwam rolę_.
+
+_**Gratulacje!!! Rola została usunięta.**_
