@@ -11,4 +11,5 @@
   * [Pierwsze kroki w CI](conversational-intelligence/pierwsze-kroki-w-ci.md)
   * [Eksploruj](conversational-intelligence/eksploruj.md)
   * [Pulipty](conversational-intelligence/pulipty.md)
-* [Cognitive Automation](cognitive-automation.md)
+* [Cognitive Automation](cognitive-automation/README.md)
+  * [Pierwsze kroki w CA](cognitive-automation/pierwsze-kroki-w-ca.md)

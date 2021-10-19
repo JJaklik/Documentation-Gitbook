@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Ustawienia
 
 Zakładka wyświetlana jest tylko dla właściciela organizacji.&#x20;
