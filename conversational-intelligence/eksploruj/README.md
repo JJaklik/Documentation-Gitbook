@@ -1,0 +1,3 @@
+# Eksploruj
+
+Zakładka Eksploruj przenosi użytkownika do widoku listy nagrań, pozwalającej na swobodne eksplorowanie zbioru nagrań przydzielonego w ramach filtru dla grupy, do której należy użytkownik. Główny ekran zakładki Eksploruj zawiera aktualnie zindeksowane w systemie nagrania wraz z ich metadanymi. Składa się on z dwóch zakładek, zakładki Nagrania, gdzie znajduje się widok listy nagrań wraz z transkrypcją oraz drugiej zakładki Statystyki, gdzie znajdują się wykresy danych dotyczących nagrań. W widoku pojedynczego nagrania użytkownik posiada możliwość odsłuchania nagrania oraz sprawdzenia jego transkrypcji i powiązanych metadanych.

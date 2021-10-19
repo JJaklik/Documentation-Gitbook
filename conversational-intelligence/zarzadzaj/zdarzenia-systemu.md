@@ -1,0 +1,2 @@
+# Zdarzenia systemu
+
