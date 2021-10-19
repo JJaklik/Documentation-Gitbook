@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Voicelab](README.md)
-* [Revenue Intelligence](revenue-intelligence/README.md)
+* [Revenue Intelligence](README.md)
   * [Pierwsze kroki w RI](revenue-intelligence/pierwsze-kroki-w-ri.md)
   * [Aplikacje](revenue-intelligence/aplikacje.md)
   * [Użytkownicy](revenue-intelligence/uzytkownicy.md)
