@@ -16,7 +16,7 @@ Należy podać nazwę nowej roli organizacyjne, pamiętając że nazwa nie może
 
 ## Edycja roli organizacyjnej.
 
-Aby zedytować rolę organizacyjną należy przy wybranej roli wybrać ikonę edycji. Można dokonać zmian uprawnień oraz edytować nazwę roli.
+Aby zedytować rolę organizacyjną należy przy wybranej roli wybrać ikonę _Edycji_. Można dokonać zmian uprawnień oraz edytować nazwę roli.
 
 ## Usuwanie roli organizacyjnej.
 
