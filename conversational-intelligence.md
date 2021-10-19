@@ -28,6 +28,6 @@ System VoiceLab CI zawiera moduł lematyzacji. Lematyzacja to proces wyznaczania
 
 Poza podstawowym wyszukiwaniem, opartym na prostym sprawdzeniu, czy dane słowo występuje w tekście, Solr pozwala m.in. na:
 
-* &#x20;wyszukiwanie w otoczeniu – poprzez symbol \~N (gdzie N to liczba) możemy określić, ile maksymalnie słów może znaleźć się pomiędzy dwoma wyszukiwanymi słowami, na przykład: `bash „jak pomóc”~2 `odnajdzie „jak mogę pomóc” i „jak mogłabym pani pomóc”, ale nie „jak mogłabym dzisiaj panu pomóc”.
+* &#x20;wyszukiwanie w otoczeniu – poprzez symbol \~N (gdzie N to liczba) możemy określić, ile maksymalnie słów może znaleźć się pomiędzy dwoma wyszukiwanymi słowami, na przykład: `„jak pomóc”~2 `odnajdzie „jak mogę pomóc” i „jak mogłabym pani pomóc”, ale nie „jak mogłabym dzisiaj panu pomóc”.
 * określanie zakresów dla wartości liczbowych – poprzez nawiasy klamrowe dla nierówności ostrych (<, >) i kwadratowe dla nierówności nieostrych (≤, ≥), na przykład:` metadana:[50 TO 60]` odnajdzie dokumenty, dla których wartość podanej metadanej jest większa lub równa 50 i mniejsza lub równa 60.
 * użycie operatorów logicznych AND (lub znaku +), NOT (lub znaku –) i OR (domyślnie - brak znaku) dla każdego elementu zapytania, na przykład:  `+„jak pomóc”~2 +”dzień dobry” `odnajdzie „dzień dobry jak mogę panu pomóc” ale nie „witam jak mogę panu pomóc”, natomiast:  `+„jak pomóc”~2 ”dzień dobry”`  odnajdzie zarówno „dzień dobry jak mogę panu pomóc”, jak i „witam jak mogę panu pomóc”.
