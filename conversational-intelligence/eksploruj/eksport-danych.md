@@ -1,2 +1,3 @@
 # Eksport Danych
 
+System umożliwia pobranie danych dotyczących nagrań w widoku zakładki Eksploruj. Przycisk Więcej > rozwija odpowiednie menu kontekstowe. Wybierając opcję eksportuj plik do CSV lub XLSX użytkownik ma możliwość pobrania skoroszytu zawierającego wybrane dane. Po wysunięciu panelu, użytkownik wpisuję ilość nagrań, którą zamierza pobrać. Ze względów bezpieczeństwa, większe ilości danych eksportowane są w paczkach. Użytkownik wybiera paczkę, którą chce pobrać i klika w przycisk Generuj i pobierz, aby pobrać pliki. Pobrany plik zawiera transkrypcje wraz ze znacznikami czasowymi oraz wszystkie metadane przypisane do nagrania. Każdy wiersz odpowiada jednemu nagraniu.
