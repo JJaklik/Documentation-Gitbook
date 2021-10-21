@@ -14,6 +14,14 @@ Pulpit użytkownika służy do tworzenia własnych, publicznych bądź prywatnyc
 
 ## Tworzenie pulpitu.
 
+Użytkownik ma możliwość tworzenia własnego pulpitu poprzez rozwinięcie ustawień (symbol koła zębatego) u góry strony i wybranie opcji Dodaj z listy. Po wysunięciu z prawej strony panelu, użytkownik wypisuje nazwę pulpitu oraz grupę, dla której pulpit ma być dostępny. Po wybraniu przycisku Zapisz, system zostaje zaktualizowany o nowy pulpit, a użytkownik automatycznie przenoszony jest do jego widoku.
+
+Użytkownik ma możliwość przechodzenie między pulpitami dzięki wysuwanemu panelowi, który pojawia się po kliknięciu w napis Wybierz pulpit u góry strony. Po wysunięciu pulpitu, użytkownik zaznacza wybrany pulpit wybierając pole wyboru oraz klika w przycisk zapisz, a system automatycznie przenosi użytkownika do widoku wybranego pulpitu.
+
 ## Usuwanie i edycja pulpitu.
 
+Usuwanie oraz edycja pulpitu działają analogicznie do jego tworzenia (ikona koła zębatego), jednak zamiast opcji Dodaj użytkownik klika w opcję Edytuj lub Usuń. Proces zaczyna się poprzez kliknięcie w ikonkę strzałki, obok nazwy pulpitu i wybranie odpowiedniej opcji z listy. Usunięcie pulpitu następuje przez usunięcie go z listy pulpitów, a dzięki edycji możliwa jest zmiana nazwy pulpitu lub grupy docelowej dla tego pulpitu.
+
 ## Wykresy na pulpitach.
+
+Pulpity służą do tworzenia zbiorów wykresów, zawierających samodzielnie zdefiniowane zakresy danych i ich graficzne reprezentacje. Wykresy mogą być prezentowane w dwóch trybach: trybie rozwiniętym (wykres zajmuje całą przestrzeń rzędu) oraz trybie zwiniętym (wykres zajmuje 1/3 przestrzeni rzędu). Zmiana trybów wyświetlania wykresu zachodzi poprzez wybranie przycisku w prawym górnym rogu wykresu. Oprócz tego każdy wykres posiada własne menu kontekstowe, które pozwala na edycję wykresu, kopiowanie do innego pulpitu oraz usunięcie. Przycisk otwierający menu kontekstowe również mieści się w prawym górnym rogu wykresu.
