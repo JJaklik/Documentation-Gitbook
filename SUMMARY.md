@@ -25,3 +25,8 @@
   * [Powiadomienia](conversational-intelligence/powiadomienia.md)
 * [Cognitive Automation](cognitive-automation/README.md)
   * [Pierwsze kroki w CA](cognitive-automation/pierwsze-kroki-w-ca.md)
+  * [Pulpit](cognitive-automation/pulpit.md)
+  * [Projekty](cognitive-automation/projekty.md)
+  * [Bazy nagrań](cognitive-automation/bazy-nagran.md)
+  * [Zasoby danych](cognitive-automation/zasoby-danych.md)
+  * [Integracje](cognitive-automation/integracje.md)
