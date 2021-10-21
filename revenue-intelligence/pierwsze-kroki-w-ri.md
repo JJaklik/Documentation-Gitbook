@@ -22,6 +22,6 @@ Po utworzeniu konto pozostaje już tylko zalogowanie się do naszej aplikacji.
 
 ## Strona Główna
 
-Po poprawnym zalogowaniu do aplikacji wyświetli się strona główna.
+Po poprawnym zalogowaniu do aplikacji wyświetli się strona główna. W prawym górnym rogu mamy możliwość zmiany języka aplikacji oraz możliwość zobaczenia naszych danych. Po lewej stornie znajduje się pole zakładek, które pomoże nam poruszać się po aplikacji.
 
 ![](<../.gitbook/assets/Storna Główna.PNG>)

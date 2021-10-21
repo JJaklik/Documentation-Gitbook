@@ -1,6 +1,6 @@
 # Ustawienia
 
-Zakładka wyświetlana jest tylko dla właściciela organizacji.&#x20;
+Zakładka wyświetlana jest tylko dla właściciela organizacji. Korzystając z niej możemy zmienić właściciela organizacji.
 
 ![](<../.gitbook/assets/ustawienia organizacji.PNG>)
 
