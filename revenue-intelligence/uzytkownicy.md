@@ -10,6 +10,8 @@ Korzystając z przycisku ,, Dodaj użytkownika" mamy możliwość dodania użytk
 
 Dodawanie użytkowników odbywa się za pomocą przycisku w prawym rogu "Dodaj użytkowników". Jednocześnie możemy dodać wielu użytkowników.
 
+![](<../.gitbook/assets/Dodawania użytkownika.PNG>)
+
 Aby dodać użytkowników wystarczy w odpowiednie pole wpisać e-maile użytkowników których chcemy zaprosić do organizacji. Należy pamiętać o  oddzieleniu e-maili przecinkami. Następnie należy wybrać rolę organizacyjną dla zaproszonych użytkowników oraz można przypisać ich od razu do odpowiedniej instancji. Proces dodawania użytkownika zakańczamy potwierdzając przyciskiem "Dodaj użytkowników".
 
 W tym momencie system wysyła zaproszenia do organizacji na każdy z podanych e-maili.
